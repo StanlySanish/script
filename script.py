@@ -87,7 +87,7 @@ def image_uploader(water_mark):
         watermark_photo(input_image_path, watermark_image_path)
 
 
-#Assigning Values and also calling the function(Please delete this after you understand sanish).
+#Assigning Values and also calling the function
 """In the below lines a= list(sys.argv) implies :
     Example
     If we enter script as "Python3 script.py 1" 
